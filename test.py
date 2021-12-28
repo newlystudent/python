@@ -1,0 +1,2 @@
+string = ""
+print(len(string))
